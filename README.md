@@ -1,2 +1,2 @@
 # testGit_onUbuntu
- test remote
+ test remote 12 34 
